@@ -14,6 +14,8 @@ The observer pattern is a software design pattern in which an object, named the 
 <img src="./img/observer_uml.png" width="400">\
 Fig. 2 - UML class design
 
+## Cite this work
+    J. Rico, (2019) Central Messaging System using Singleton and Observer design patterns. [Source code](https://github.com/jvirico/CentralMessagingSystem)
 
 ## References
 [1] - [Singleton Pattern Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)\
